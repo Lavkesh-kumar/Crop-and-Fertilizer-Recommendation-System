@@ -1,4 +1,4 @@
-# Crop and Fertilizer Recommendation Dataset
+# Crop and Fertilizer Recommendation System
 
 This repository provides a dataset designed for developing a **Crop and Fertilizer Recommendation System**. The dataset integrates crucial information about soil characteristics, environmental conditions, and fertilizers, enabling the creation of intelligent systems to recommend both optimal crops and the appropriate fertilizers. The goal is to enhance agricultural productivity and sustainability by leveraging data-driven insights.
 
